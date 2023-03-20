@@ -34,9 +34,9 @@ const Details = () => {
         <img src={findProject?.image} alt="" className="img-fluid mt-5" />
         <h2 className="details__heading text-center">{findProject?.name}</h2>
         <div className="details__btn-group">
-          <button className="details__btn">Live Site</button>
-          <button className="details__btn">Clind Site Code Link</button>
-          <button className="details__btn">Server Site Code Link</button>
+          <a href={findProject?.live_site} target="_blank" className="details__btn">Live Site</a>
+          <a href={findProject?.clint_link} target="_blank" className="details__btn">Clind Site Code Link</a>
+          <a href={findProject?.server_link} target="_blank" className="details__btn">Server Site Code Link</a>
         </div>
         <div className="">
           <h4 className="details__tech-header">Technology Used</h4>

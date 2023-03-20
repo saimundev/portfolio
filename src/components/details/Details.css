@@ -18,6 +18,9 @@
     color: blueviolet;
     font-weight: 500;
     transition: .5s ease-in-out;
+    text-decoration: none;
+    display: block;
+    text-align: center;
 }
 .details__btn:hover{
     background: blueviolet;
