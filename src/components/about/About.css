@@ -1,0 +1,39 @@
+.about__title {
+    font-size: 40px;
+    font-weight: 700;
+    border-bottom: 4px solid lightgray;
+    display: inline-block;
+    padding-bottom: 8px;
+   
+}
+.about__text {
+    font-size: large;
+    color: gray;
+    margin-top: 10px;
+    font-weight: 400;
+}
+.about__image {
+    width: 600px;
+}
+
+
+
+
+
+/* responsive */
+
+@media(max-width:750px){
+    .about__title {
+        font-size: 30px;
+        margin-top: 50px;
+        
+    }
+    .about__text {
+        font-size:medium;
+        color: gray;
+        margin-top: 10px;
+        font-weight: 400;
+    }
+    
+}
+

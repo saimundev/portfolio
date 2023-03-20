@@ -1,0 +1,45 @@
+.details__heading {
+    font-size: 35px;
+    font-weight: bold;
+    
+}
+.details__btn-group {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 30px;
+    gap: 16px;
+}
+.details__btn {
+    padding: 8px 10px;
+    width: 200px;
+    border: 2px solid blueviolet;
+    border-radius: 6px;
+    color: blueviolet;
+    font-weight: 500;
+    transition: .5s ease-in-out;
+}
+.details__btn:hover{
+    background: blueviolet;
+    color: white;
+}
+.details__tech-header {
+    margin-top: 80px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.detail__tech {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.details__feacher {
+    margin-top: 40px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.details__text {
+   
+    font-size: 16px;
+    font-weight: 500;
+}

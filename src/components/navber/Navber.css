@@ -1,0 +1,25 @@
+.nav__logo{
+    font-family: 'Condiment';
+    font-size: 26px;
+    color: #673ab7;
+}
+.nav-link{
+    font-size: 16px;
+    color: rgba(0,0,0,.6);
+   
+}
+.nav-link:hover{
+    color: blueviolet;
+}
+.nav__resume {
+    border: 1px solid #673ab7;
+    color: #673ab7;
+    padding: 3px 10px;
+    border-radius: 4px;
+    transition: .5s ease-in-out;
+    width: 100%;
+}
+.nav__resume:hover{
+    background-color: blueviolet;
+    color: white;
+}
