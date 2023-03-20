@@ -8,7 +8,7 @@
     "live_site": "https://chawk-bazer.netlify.app/",
     "clint_link": "https://github.com/saimundev/e-commerce-clind",
     "server_link": "https://github.com/saimundev/e-commarce-server",
-    "decription": "<li>Customers can purchase any prodect By Login</li> <li>Customers can login and reguster with email</li> <li>Customers can pay with Stripe payment system</li> <li>Every customer has a Dashboard and he can see his orders</li> <li>customer can review any prodect</li> <li></li>"
+    "decription": "<li>Customers can purchase any prodect By Login</li> <li>Customers can login and reguster with email</li> <li>Customers can pay with Stripe payment system</li> <li>Every customer has a Dashboard and he can see his orders</li> <li>customer can review any prodect</li> <li>It has a deshabord . admin can manage this website</li>"
   },
   {
     "id": 2,
