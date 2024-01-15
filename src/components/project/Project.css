@@ -1,59 +1,69 @@
 .skill__title {
-    font-size: 40px;
-    font-weight: 700;
-    border-bottom: 4px solid lightgray;
-    display: inline-block;
-    padding-bottom: 8px;
-    margin-bottom: 50px;
-    margin-top: 50px;
+  font-size: 40px;
+  font-weight: 700;
+  border-bottom: 4px solid lightgray;
+  display: inline-block;
+  padding-bottom: 8px;
+  margin-bottom: 50px;
+  margin-top: 50px;
 }
-.project__cart{
-    transition: .5s ease-in-out;
+.project__cart {
+  transition: 0.5s ease-in-out;
+  border: 1px solid lightgray;
+  border-radius: 8px;
+  height: 450px;
+  padding: 10px;
+  display: grid;
+  align-content: space-between;
 }
+
 .project__cart:hover {
-    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
-    cursor: pointer;
-    transform:translateY(-15px);
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+  cursor: pointer;
+  transform: translateY(-15px);
 }
 .bold {
-    font-weight: bold;
+  font-weight: bold;
 }
 .project__name {
-    display: block;
-    font-size: 18px;
-    font-weight: 500;
-    margin-top: 10px;
+  display: block;
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 20px;
 }
 .project__catgory {
-    display: block;
-    font-size: 16px;
-    font-weight: 500;
+  display: block;
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: 6px;
 }
 .project__tech {
-    display: block;
-    font-size: 16px;
-    font-weight: 500;
+  display: block;
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: 6px;
 }
 .project__btn {
-    border: 2px solid blueviolet;
-    padding: 6px 14px;
-    border-radius: 6px;
-    color: blueviolet;
-    font-weight: 500;
-    font-size: 16px;
-    display: block;
-    margin-top: 14px;
-    transition: .5s ease-in-out;
+  border: 2px solid blueviolet;
+  padding: 6px 14px;
+  border-radius: 6px;
+  color: blueviolet;
+  font-weight: 500;
+  font-size: 16px;
+  display: block;
+  margin-top: 14px;
+  transition: 0.5s ease-in-out;
 }
-.project__btn:hover{
-    background: blueviolet;
-    color: white;
+.project__btn:hover {
+  background: blueviolet;
+  color: white;
 }
 .btn__hover {
-    text-decoration: none;
-    color: blueviolet;
-    display: block;
+  text-decoration: none;
+  color: blueviolet;
+  display: block;
 }
-.btn__hover:hover{
-    color: white;
+.btn__hover:hover {
+  color: white;
 }

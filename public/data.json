@@ -2,30 +2,52 @@
   {
     "id": 1,
     "name": "E-commerce website",
-    "category": "Mern stack",
+    "category": "MERN Stack",
     "teconlogy": "React js, tailwind css, Redux toolkit, Jwt, Nodejs, Expressjs, Mongodb, Stripe",
     "image": "/images/e-commerce.png",
     "live_site": "https://chawk-bazer.netlify.app/",
     "clint_link": "https://github.com/saimundev/e-commerce-clind",
     "server_link": "https://github.com/saimundev/e-commarce-server",
-    "decription": "<li>Customers can purchase any prodect By Login</li> <li>Customers can login and reguster with email</li> <li>Customers can pay with Stripe payment system</li> <li>Every customer has a Dashboard and he can see his orders</li> <li>customer can review any prodect</li> <li>It has a deshabord . admin can manage this website</li>"
+    "decription": "<li>Customers can purchase any product By Login</li> <li>Customers can login and register with email</li> <li>Customers can pay with Stripe payment system</li> <li>Every customer has a Dashboard and he can see his orders</li> <li>customer can review any product</li> <li>It has a dashboard . admin can manage this website</li>"
   },
   {
     "id": 2,
+    "name": "Social Media Application",
+    "category": "MERN Stack",
+    "teconlogy": "Next js,Typescript, Shad cn,tailwind css, Redux toolkit,Socket io, Jwt, Nodejs, Express js, Mongodb, Mongoose",
+    "image": "/images/social_media.png",
+    "live_site": "https://friendzon.vercel.app/",
+    "clint_link": "https://github.com/saimundev/social_media_client",
+    "server_link": "https://github.com/saimundev/social_media_backend",
+    "decription": "<li>Users can create account and visited website</li> <li>user can create post,edit post and delete post</li> <li>Users can like, comment and share other users</li> <li>Users can add friend</li> <li>It has a real-time chating application</li> <li>It has a forget password functionality</li>"
+  },
+  {
+    "id": 3,
+    "name": "Online Job Portal Website",
+    "category": "MERN Stack",
+    "teconlogy": "Next js,Typescript, Shad cn,tailwind css, Redux toolkit,Jwt, Nodejs, Express js, Mongodb, Mongoose",
+    "image": "/images/online-job-portal.png",
+    "live_site": "https://deshjob.vercel.app/",
+    "clint_link": "https://github.com/saimundev/job-portal-client",
+    "server_link": "https://github.com/saimundev/job-portal-server",
+    "decription": "<li>This is a fully functional and responsive website</li> <li>Users can find their dream job and apply job</li> <li>It has a searching,sorting,pagination functionality</li> <li>Users can save their job</li> <li>Company add their job ny find their employ</li>"
+  },
+  {
+    "id": 4,
     "name": "Multi Author Blog website",
-    "category": "Mern stack",
-    "teconlogy": "React js, chakra ui, Redux toolkit, Jwt, Nodejs, Expressjs, Mongodb, Stripe",
+    "category": "MERN Stack",
+    "teconlogy": "React js, chakra ui, Redux toolkit, Jwt, Nodejs, Express js, Mongodb, Stripe",
     "image": "/images/blog.png",
     "live_site": "https://kotha.netlify.app/",
     "clint_link": "https://github.com/saimundev/blog-clind",
     "server_link": "https://github.com/saimundev/blog-server",
-    "decription": "<li>Users can read any blog with out login</li> <li>Login users can add Blog</li> <li>Every login user has a Deshborad. He can mange her blog</li> <li>Login User can Like And comment every blog</li> <li>If user forget her password than he can set new password</li> <li>User can search blog and filter any blog</li>"
+    "decription": "<li>Users can read any blog with out login</li> <li>Login users can add Blog</li> <li>Every login user has a Dashboard. He can mange her blog</li> <li>Login User can Like And comment every blog</li> <li>If user forget her password than he can set new password</li> <li>User can search blog and filter any blog</li>"
   },
   {
-    "id": 3,
+    "id": 5,
     "name": "Stacky Node Website",
     "category": "Mern stack",
-    "teconlogy": "React js, tailwnd css,Framer Motion, Redux toolkit, Jwt, Nodejs, Expressjs, Mongodb, Stripe",
+    "teconlogy": "React js, tailwind css,Framer Motion, Redux toolkit, Jwt, Nodejs, Express js, Mongodb, Stripe",
     "image": "/images/stacky.png",
     "live_site": "https://stacky-nodes.netlify.app/",
     "clint_link": "https://github.com/saimundev/stacky-node-clind",
